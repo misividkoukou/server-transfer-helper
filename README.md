@@ -22,7 +22,7 @@ eg：在ip为play.areocraft.space的服务器中输入scoreboard players set @a 
 **4.设置你的端口**  
 在STH：data/functions/trancefer文件夹中的三个文件中（tp1 tp2 tp3）输入对应的端口，你可以使用vscord或者自带的记事本打开，你必须将tp1 tp2 tp3 3个文件中所有关于端口的位置配置完毕  
 （要是实在没有3个就写个mc.hypixel.net呗）  
-![)7U5%6BN516K}7A)L}15G9K](https://github.com/misividkoukou/server-trancefer-helper/assets/121597192/ce8dc32e-f0c2-42ac-b381-4125c44ae01a)
+![N ~XA9QW%87$_MSD7BX704D](https://github.com/misividkoukou/server-transfer-helper/assets/121597192/e12c149e-d2b5-4f25-94c9-2034711f749f)
 将图片中的<主机> <端口>改为你的ip地址与端口  
 如果你有域名，则端口填写25565，如果是购买的面板服，或vps，请填写连接端口  
 eg:127.0.0.1 14779 | mini.areocraft.space 25565  
