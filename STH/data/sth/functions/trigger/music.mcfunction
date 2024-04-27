@@ -1,1 +1,0 @@
-tellraw @s {"text":"","extra":[{"text":"Pop music！","clickEvent":{"action":"open_url","value":"https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click "}}]}
