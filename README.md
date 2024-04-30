@@ -1,7 +1,7 @@
-# server-trancefer-helper
+# server-transfer-helper
 这是一个帮助服务器管理者更简单的管理多服务器的数据包
 
-感谢你使用server trancefer helper数据包，你如果是第一次使用，请根据以下步骤进行配置  
+感谢你使用Server Transfer Helper数据包，你如果是第一次使用，请根据以下步骤进行配置  
 
 **1.所需工具**：  
 一台电脑，一双手，一个大脑  
@@ -20,7 +20,7 @@
 eg：在ip为play.areocraft.space的服务器中输入scoreboard players set @a server_num 1  
 
 **4.设置你的端口**  
-在STH：data/functions/trancefer文件夹中的三个文件中（tp1 tp2 tp3）输入对应的端口，你可以使用vscord或者自带的记事本打开，你必须将tp1 tp2 tp3 3个文件中所有关于端口的位置配置完毕  
+在STH：data/functions/trancefer文件夹中的三个文件中（tp1 tp2 tp3）输入对应的端口，你可以使用vscode或者自带的记事本打开，你必须将tp1 tp2 tp3 3个文件中所有关于端口的位置配置完毕  
 （要是实在没有3个就写个mc.hypixel.net呗）  
 ![N ~XA9QW%87$_MSD7BX704D](https://github.com/misividkoukou/server-transfer-helper/assets/121597192/e12c149e-d2b5-4f25-94c9-2034711f749f)
 将图片中的<主机> <端口>改为你的ip地址与端口  
@@ -37,7 +37,7 @@ eg.将 服务器1 修改为 生存服
 **7.一些注意事项**  
 Ⅰ你可以先进行配置再将他加入服务器进行scoreboard配置  
 Ⅱ使用此数据包的前提是，你将其安装到各个服务端而不是客户端  
-Ⅲ(重要)在默认情况下，服务器不会接受转移，并会断开与客户端的连接，但可以通过将配置文件server.properties中的accepts-transfers设置为true来启用此功能，启用功能后，才可以使用此数据包  
+Ⅲ**(重要)在默认情况下，服务器不会接受转移，并会断开与客户端的连接，但可以通过将配置文件server.properties中的accepts-transfers设置为true来启用此功能，启用功能后，才可以使用此数据包  **
 Ⅳ本数据包支持范围为Java版24w04a以上  
 
 **8.使用方法**  
